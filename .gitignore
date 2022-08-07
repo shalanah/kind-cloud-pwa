@@ -1,0 +1,9 @@
+app
+gradle
+android.keystore
+build.gradle
+gradle.properties
+gradlew*
+manifest-checksum.txt
+settings.gradle
+store_icon*
