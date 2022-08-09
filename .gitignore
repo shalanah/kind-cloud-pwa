@@ -1,9 +1,11 @@
+.gradle
 app
 gradle
 android.keystore
-build.gradle
-gradle.properties
-gradlew*
-manifest-checksum.txt
-settings.gradle
+app*
+gradle*
+manifest*
+settings*
 store_icon*
+build*
+app*
